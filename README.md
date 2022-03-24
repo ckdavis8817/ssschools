@@ -1,0 +1,2 @@
+# ssschools
+GitHub Pages
